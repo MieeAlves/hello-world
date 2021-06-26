@@ -1,0 +1,6 @@
+public Class TesteClass {
+    public static void main(String[] args)
+    { 
+        System.out.println("\n TestClass");
+    }
+}   
